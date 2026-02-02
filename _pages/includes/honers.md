@@ -1,2 +1,2 @@
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Merit Student | University of Science and Technology Beijing (USTB)
+- *2023.1* UESTC Standard Student Scholarship
