@@ -1,5 +1,5 @@
 
-# 📖 Educations
-- *2020.09 - 2024.06*, Undergraduate，University of Science and Technology Beijing (USTB), Beijing.
-- *2024.09 - now*, Master, University of Chinese Academy of Sciences, Beijing.
+# 📖 Education and Academic experience
+- *2020.09 - 2024.06*, Undergraduate，University of Electronic Science and Technology of China   Chengdu,China
+- *2025.08 - now*, Research Assistant, Institute of Information Engineering, Chinese Academy of Sciences  Beijing,China
 
